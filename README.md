@@ -1,0 +1,1 @@
+# java_bank_cloudnative_external_config
